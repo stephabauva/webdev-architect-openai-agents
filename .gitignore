@@ -26,6 +26,7 @@ var/
 # Virtual Environment
 venv/
 ENV/
+.venv*/
 
 # IDE files
 .idea/
@@ -33,4 +34,5 @@ ENV/
 *.swp
 *.swo
 
-.DS_Store
+#Metadata
+*.DS_Store
