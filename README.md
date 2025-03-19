@@ -18,7 +18,7 @@ In this demo, the triage agent figures out that the Mobile Architecte was the be
 
 Similarly, in this demo, the triage agent figures out that the Prompt Engineering Architect was the best suited for this request, which then answers the query. Duration was around 45s.
 
-![Demo - Triage Agent Routing](assets/demo-webdevchat-prompt-resized.gif)
+![Demo - Triage Agent Routing](assets/demo-webdevchat-prompting-resized.gif)
 
 ## Architecture
 
