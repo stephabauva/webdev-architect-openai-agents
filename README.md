@@ -10,15 +10,15 @@ It is a Python-based web development chat application that uses OpenAI's SDK, it
 
 ### Mobile Architect Demo
 
-This video demonstrates the application being used with the Mobile Architect agent to answer a prompt.
+In this demo, the triage agent figures out that the Mobile Architecte was the best suited for this request, the architecte then answers the query. Duration was around 45s.
 
-[assets/demo-webdevchat-mobile.mp4](assets/demo-webdevchat-mobile.mp4)
+[assets/demo-webdevchat-mobile.gif](assets/demo-webdevchat-mobile.gif)
 
 ### Prompt Engineering Architect Demo
 
-This video demonstrates the application being used with the Prompt Engineering Architect agent to answer a prompt.
+Similarly, in this demo, the triage agent figures out that the Prompt Engineering Architect was the best suited for this request, which then answers the query. Duration was around 45s.
 
-[assets/demo-webdevchat-prompting.mp4](assets/demo-webdevchat-prompting.mp4)
+[assets/demo-webdevchat-prompt.gif](assets/demo-webdevchat-prompt.gif)
 
 ## Architecture
 
