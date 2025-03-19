@@ -2,7 +2,7 @@
 
 ## Description
 
-This application helps you with any architecture of your web application, using 16 specialised agents,from frontend architecte all the way to LLM Fine-tuning Architect. Note : it is made to design **NOT** edit code.
+This Gradio application helps you with any architecture of your web application, using 16 specialised agents, from Frontend Architect all the way to LLM Fine-tuning Architect. Note : it is made to design your app **NOT** edit code.
 
 It is a Python-based web development chat application that uses OpenAI's SDK, it uses a triage agent to determine which specialist agent to use based on the user's question.
 
