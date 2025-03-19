@@ -6,6 +6,20 @@ This Gradio application helps you with any architecture of your web application,
 
 It is a Python-based web development chat application that uses OpenAI's SDK, it uses a triage agent to determine which specialist agent to use based on the user's question.
 
+## Demos
+
+### Mobile Architect Demo
+
+This video demonstrates the application being used with the Mobile Architect agent to answer a prompt.
+
+[assets/demo-webdevchat-mobile.mp4](assets/demo-webdevchat-mobile.mp4)
+
+### Prompt Engineering Architect Demo
+
+This video demonstrates the application being used with the Prompt Engineering Architect agent to answer a prompt.
+
+[assets/demo-webdevchat-prompting.mp4](assets/demo-webdevchat-prompting.mp4)
+
 ## Architecture
 
 The application consists of the following main components:
@@ -71,3 +85,4 @@ The application uses a triage agent to route questions to specialist agents. The
 2.  Open the application in your web browser.
 3.  Enter your OpenAI API key in the web interface if it is not already set in the `.env` file.
 4.  Ask questions about web development in the chat interface.
+
