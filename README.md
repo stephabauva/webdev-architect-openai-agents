@@ -12,13 +12,13 @@ It is a Python-based web development chat application that uses OpenAI's SDK, it
 
 In this demo, the triage agent figures out that the Mobile Architecte was the best suited for this request, the architecte then answers the query. Duration was around 45s.
 
-[assets/demo-webdevchat-mobile.gif](assets/demo-webdevchat-mobile.gif)
+![Demo - Triage Agent Routing](assets/demo-webdevchat-mobile.gif)
 
 ### Prompt Engineering Architect Demo
 
 Similarly, in this demo, the triage agent figures out that the Prompt Engineering Architect was the best suited for this request, which then answers the query. Duration was around 45s.
 
-[assets/demo-webdevchat-prompt.gif](assets/demo-webdevchat-prompt.gif)
+![Demo - Triage Agent Routing](assets/demo-webdevchat-prompt.gif)
 
 ## Architecture
 
